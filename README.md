@@ -1,4 +1,7 @@
 # California-Housing-Price-Prediction
+
+![Uploading image.png…]()
+
 ## Overview
 In this project, we delve into the intriguing world of real estate price prediction, focusing specifically on the housing market in California. The goal is to develop a machine learning model capable of accurately predicting median house values across various districts in California. This analysis is not only a practical endeavor for potential investors and homeowners but also an excellent opportunity to explore and understand the dynamics of real estate pricing.
 
